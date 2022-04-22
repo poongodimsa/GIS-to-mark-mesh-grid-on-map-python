@@ -1,2 +1,6 @@
 # GIS-to-make-mesh-grid-on-map-
-Geographic Information System to mark equally spaced points on map with boundaries or with specified radius
+This project is a Geographic Information System to mark equally distanced points on map.
+
+There are two variations: 
+1) Mark points all over the given city/state boundary
+2) Mark pointsonly within a specified radius
